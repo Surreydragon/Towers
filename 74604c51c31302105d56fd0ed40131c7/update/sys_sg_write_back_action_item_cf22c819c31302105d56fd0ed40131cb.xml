@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit</name>
+        <parameter_screen/>
+        <query_condition table="x_8952_bellringing_tower">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-08 15:13:38</sys_created_on>
+        <sys_id>cf22c819c31302105d56fd0ed40131cb</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Bellringing" source="x_8952_bellringing">74604c51c31302105d56fd0ed40131c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_cf22c819c31302105d56fd0ed40131cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-15 15:12:44</sys_updated_on>
+        <table>x_8952_bellringing_tower</table>
+        <template>name={{Towers name}}^number_of_bells={{Towers number_of_bells}}^tenor_weight={{Towers tenor_weight}}^description={{Towers Description}}^test_mb={{MB TEST}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf22c819c31302105d56fd0ed40131cb"/>
+</record_update>

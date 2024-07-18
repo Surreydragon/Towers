@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Edit Button (Towers)">4722c819c31302105d56fd0ed40131ce</button>
+        <item_parameter display_value="Tower descr">b0db479bc39302105d56fd0ed40131dd</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-15 11:05:01</sys_created_on>
+        <sys_id>ed6c4b5fc39302105d56fd0ed4013162</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0db479bc39302105d56fd0ed40131dd</sys_name>
+        <sys_package display_value="Bellringing" source="x_8952_bellringing">74604c51c31302105d56fd0ed40131c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ed6c4b5fc39302105d56fd0ed4013162</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-15 11:05:01</sys_updated_on>
+        <ui_parameter display_value="Description">c77e769bc35302105d56fd0ed4013156</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</application>
+        <file_path/>
+        <instance_id>402d9edd1b4d429032182f8dee4bcb6b</instance_id>
+        <instance_name>dev244570</instance_name>
+        <name>sys_sg_action_param_map_ed6c4b5fc39302105d56fd0ed4013162</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Edit Button (Towers)">4722c819c31302105d56fd0ed40131ce</button><item_parameter display_value="Tower descr">b0db479bc39302105d56fd0ed40131dd</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-15 11:05:01</sys_created_on><sys_id>ed6c4b5fc39302105d56fd0ed4013162</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b0db479bc39302105d56fd0ed40131dd</sys_name><sys_package display_value="Bellringing" source="x_8952_bellringing">74604c51c31302105d56fd0ed40131c7</sys_package><sys_policy/><sys_scope display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</sys_scope><sys_update_name>sys_sg_action_param_map_ed6c4b5fc39302105d56fd0ed4013162</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-15 11:05:01</sys_updated_on><ui_parameter display_value="Description">c77e769bc35302105d56fd0ed4013156</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>514840011</payload_hash>
+        <record_name>b0db479bc39302105d56fd0ed40131dd</record_name>
+        <reverted_from/>
+        <source>3c600495c31302105d56fd0ed401317b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-15 11:05:01</sys_created_on>
+        <sys_id>696c079fc39302105d56fd0ed40131d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190b6113cb40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-15 11:05:01</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>6d6c079fb29302109040c45d1373c9cf</update_guid>
+        <update_guid_history>6d6c079fb29302109040c45d1373c9cf:514840011</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-15 11:08:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>13559aaabe2e407181ea572218701279</sys_id>
+        <sys_metadata>ed6c4b5fc39302105d56fd0ed4013162</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0db479bc39302105d56fd0ed40131dd</sys_name>
+        <sys_package display_value="Bellringing" source="x_8952_bellringing">74604c51c31302105d56fd0ed40131c7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</sys_scope>
+        <sys_scope_delete display_value="">6ccc61cb091b451e8822e2783b79a3c4</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_ed6c4b5fc39302105d56fd0ed4013162</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_ed6c4b5fc39302105d56fd0ed4013162">696c079fc39302105d56fd0ed40131d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-15 11:08:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

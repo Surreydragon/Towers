@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Edit Button (Towers)">4722c819c31302105d56fd0ed40131ce</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Description</name>
+        <order>400</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-15 10:04:13</sys_created_on>
+        <sys_id>c77e769bc35302105d56fd0ed4013156</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Description</sys_name>
+        <sys_package display_value="Bellringing" source="x_8952_bellringing">74604c51c31302105d56fd0ed40131c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_c77e769bc35302105d56fd0ed4013156</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-15 10:58:34</sys_updated_on>
+        <table_name/>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=c77e769bc35302105d56fd0ed4013156"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</application>
+        <file_path/>
+        <instance_id>402d9edd1b4d429032182f8dee4bcb6b</instance_id>
+        <instance_name>dev244570</instance_name>
+        <name>sys_sg_ui_parameter_c77e769bc35302105d56fd0ed4013156</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Edit Button (Towers)">4722c819c31302105d56fd0ed40131ce</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>source_field</default_value_type><field_name/><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Description</name><order>400</order><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-15 10:04:13</sys_created_on><sys_id>c77e769bc35302105d56fd0ed4013156</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Description</sys_name><sys_package display_value="Bellringing" source="x_8952_bellringing">74604c51c31302105d56fd0ed40131c7</sys_package><sys_policy/><sys_scope display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</sys_scope><sys_update_name>sys_sg_ui_parameter_c77e769bc35302105d56fd0ed4013156</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-15 10:58:34</sys_updated_on><table_name/><virtual_field_value>false</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=c77e769bc35302105d56fd0ed4013156"/></record_update>]]></payload>
+        <payload_hash>1540837302</payload_hash>
+        <record_name>Description</record_name>
+        <reverted_from/>
+        <source>3c600495c31302105d56fd0ed401317b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-15 10:58:34</sys_created_on>
+        <sys_id>43ea871fc39302105d56fd0ed40131b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190b60b55690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-15 10:58:34</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>0bea871f8f9302109b159f30226db1b4</update_guid>
+        <update_guid_history>0bea871f8f9302109b159f30226db1b4:1540837302,cb7e769b29530210ee2dad03c170a959:-1508881396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-15 11:15:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>0c362cb4311d475bb2b6b109eaec9991</sys_id>
+        <sys_metadata>c77e769bc35302105d56fd0ed4013156</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Description</sys_name>
+        <sys_package display_value="Bellringing" source="x_8952_bellringing">74604c51c31302105d56fd0ed40131c7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bellringing">74604c51c31302105d56fd0ed40131c7</sys_scope>
+        <sys_scope_delete display_value="">6ccc61cb091b451e8822e2783b79a3c4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_c77e769bc35302105d56fd0ed4013156</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_c77e769bc35302105d56fd0ed4013156">43ea871fc39302105d56fd0ed40131b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-15 11:15:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

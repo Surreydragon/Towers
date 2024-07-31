@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="a6d04c95c31302105d56fd0ed401314e" label="Tower" max_length="40" name="x_8952_bellringing_tower" type="collection">
+        <element label="Tower Captain" max_length="32" name="tower_captain" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="name" type="string"/>
         <element label="Number of bells" max_length="40" name="number_of_bells" type="integer"/>
         <element label="Description" max_length="200" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Installed" max_length="40" name="installed" type="glide_date"/>
         <element label="Tenor weight" max_length="15" name="tenor_weight" type="decimal"/>
+        <element label="Opinion" max_length="100" name="opinion" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Test MB" max_length="40" name="test_mb" type="string"/>
+        <index name="index">
+            <element name="tower_captain"/>
+        </index>
     </element>
 </database>
